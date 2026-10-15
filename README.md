@@ -1,7 +1,7 @@
 # Project-H.O.P.E-Privacy-Policy
 ​Privacy Policy
 ​Effective Date: October 15, 2026
-​Welcome to Project H.O.P.E . We respect your privacy and are committed to ensuring a safe gaming experience. This Privacy Policy outlines how information is handled when you download, access, and play our mobile game.
+​ Welcome to Project H.O.P.E . We respect your privacy and are committed to ensuring a safe gaming experience. This Privacy Policy outlines how information is handled when you download, access, and play our mobile game.
 ​1. Information We Collect
 ​We prioritize your privacy by minimizing data collection:
 ​Local Game Data: We store your game progress, coin balances, unlocked weapon upgrades, and custom settings locally on your mobile device's internal storage.
